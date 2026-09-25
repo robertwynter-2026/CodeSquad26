@@ -1,0 +1,10 @@
+/* Make the whole page background gray */
+body {
+    background-color: lightgray;
+}
+
+/* Make the heading text blue and centered */
+h1 {
+    color: blue;
+    text-align: center;
+}
